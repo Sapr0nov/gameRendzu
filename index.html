@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//RU" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+  <head>
+    <title>Rendzu</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="links page" />
+    <link rel="shortcut icon" href="./static/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./static/css/style.css"></link>
+
+    <script src="./socket.io/socket.io.js"></script>
+
+  </head>
+
+  <body>
+    <h2 class="title">Rendzu </h2><div class="menuBtn">меню</div>
+    <div class="wrapper"></div>
+    <div class="endGame popup hide">
+      <div class="popup__info"></div>
+      <button> Ещё партию</button>
+      <div class="popup__close">x</div>
+    </div>
+    <div class="invite popup hide">
+      <input type="text" class="invite" name="invite" />
+      <button class="popup__close copyLink">скопировать ссылку</button>
+      <div class="popup__close">x</div>
+    </div>
+    <div class="menu popup hide">
+      <button class="undoBtn"> Отменить ход </button>
+      <button class="roomLink"> Пригласить друга в комнату </button>
+      <button class="passBtn"> Сдаться </button>
+      
+      <div class="button changeName"> 
+          <h3>Выбрать имя</h3>
+          <input type="text" name="userName" class="userName" placeholder="player"/>
+          <br/>
+          <div class="confirmName">OK</div>
+        </div>
+      <div class="button changeColor"> 
+        <h3>Выбрать цвет</h3>
+        <input type="color" name="userColor" class="userColor" value="#ff3333"/>
+        <br/>
+        <div class="confirmColor">OK</div>
+      </div>
+      <div class="button changeRoom"> 
+        <h3>Выбрать комнату</h3>
+        <select name="roomNumber" class="roomNumber">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+          <option>6</option>
+          <option>7</option>
+          <option>8</option>
+          <option>9</option>
+          <option>10</option>
+        </select>
+        <br/>
+        <div class="confirmRoom">OK</div>
+      </div>
+
+      <button class="darkTheme"> Темная тема </button>
+      <button class="chatBtn"> Чат вкл/выкл </button>
+      <button class="closeMenu"> Назад </button>
+      
+      <div class="popup__close">x</div>
+    </div>
+    <div class="chat">
+      <div class="chat__title">Написать в чат</div>
+      <div class="history"></div>
+      <div class="sendBlock">
+        <input type="text" class="sendMsg"/>
+        <button>отправить</button>
+      </div>
+    </div>
+  </body>
+
+  <script src="./static/game.js"></script>
+</html>
