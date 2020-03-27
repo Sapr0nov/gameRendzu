@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82.774284mm"
+   height="82.608467mm"
+   viewBox="0 0 82.774284 82.608467"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="cross.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="160.17216"
+     inkscape:cy="105.54583"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid107"
+       originx="0.064312821"
+       originy="-214.42451" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.06431282,0.03297121)">
+    <g
+       id="bundle-os-x-cursors"
+       transform="matrix(0.26458333,0,0,0.26458333,19.182292,176.3311)"
+       style="fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         transform="translate(-302,-35)"
+         id="Made-with-💕by-Azendoo-design-team---@azendoo"
+         style="fill:#808080">
+        <g
+           id="g114"
+           style="fill:#808080">
+          <rect
+             y="-631.57288"
+             x="383.8541"
+             height="312.22098"
+             width="5.0223212"
+             id="rect33"
+             style="fill:#808080;fill-opacity:1;stroke-width:25" />
+          <rect
+             transform="rotate(-90)"
+             y="229.6976"
+             x="471.69461"
+             height="312.22098"
+             width="5.0223212"
+             id="rect33-7"
+             style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25" />
+          <rect
+             ry="0"
+             transform="matrix(0.70775863,-0.70645433,0.70775863,0.70645433,0,0)"
+             y="-284.13107"
+             x="608.05072"
+             height="439.8631"
+             width="1.5829407"
+             id="rect33-72"
+             style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35.20939636" />
+          <rect
+             transform="matrix(-0.70713309,-0.70708047,0.70713309,-0.70708047,0,0)"
+             y="390.10233"
+             x="62.174118"
+             height="438.69498"
+             width="1.8594252"
+             id="rect33-7-0"
+             style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35.11554337" />
+          <ellipse
+             ry="8.4245148"
+             rx="8.9769421"
+             cy="-474.8483"
+             cx="386.3718"
+             id="path70"
+             style="fill:#808080;fill-opacity:1;stroke-width:25" />
+        </g>
+        <ellipse
+           style="fill:#808080;fill-opacity:1"
+           id="path118"
+           cx="386.05786"
+           cy="-471.73343"
+           rx="28.107494"
+           ry="26.516504" />
+      </g>
+    </g>
+    <ellipse
+       style="fill:#5fbcd3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21072856"
+       id="path118-3"
+       cx="41.469368"
+       cy="42.304661"
+       rx="5.7529759"
+       ry="5.7529764" />
+  </g>
+</svg>

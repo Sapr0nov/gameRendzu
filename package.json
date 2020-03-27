@@ -4,19 +4,18 @@
   "description": "Easy multiplayer gave",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/.git"
+    "url": "git+ssh://bezumstvo@github.com/rendzu.git"
   },
   "author": "Sapronov Sergey",
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/issues"
   },
-  "homepage": "https://github.game#readme",
+  "homepage": "http://srv2.bez-sso.ru/rendzu/",
   "dependencies": {
     "express": "^4.14.0",
     "socket.io": "^2.3.0"
