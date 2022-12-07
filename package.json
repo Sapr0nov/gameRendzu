@@ -18,7 +18,7 @@
   "homepage": "http://srv2.bez-sso.ru/rendzu/",
   "dependencies": {
     "xmlhttprequest-ssl": ">=1.6.2",
-    "express": "^4.14.0",
+    "express": "^4.18.2",
     "socket.io": "^2.4.0"
   }
 }
